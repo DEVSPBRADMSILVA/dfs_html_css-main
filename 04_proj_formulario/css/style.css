@@ -37,3 +37,21 @@ textarea{
 textarea{
     padding: 10px 5px;
 }
+
+.header {
+    background-color: #673ab7;
+    padding: 20px;
+    height: 160px;
+}
+.header h3{
+    color: #fff;
+    margin-top: 0;
+}
+
+.form-container{
+    background-color:#fdfdfd
+    ;
+    width: 60%;
+    margin: 0 auto;
+
+}
